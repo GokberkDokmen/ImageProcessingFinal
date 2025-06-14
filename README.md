@@ -1,11 +1,15 @@
 # ImageProcessingFinal
-Image Processing Final Project
-Student Informations :
-Name : Gökberk Dökmen
-ID : B2180.060041
-Phyton Libraries :
-NumPy (numpy) - np.mean, np.std, np.ravel, np
-Matplotlib (matplotlib) - plt.imshow, plt.hist, plt.subplot, plt.title, plt.axis, plt.show, plt.figure, plt.tight_layout
-OpenCV (cv2) - cv2.imread, cv2.medianBlur, cv2.GaussianBlur
-Informing Section : 
-While i doing that project, I choosed and open Terminal from PyCharm Community Edition and used Jupyter notebook. I transferred the given images from the file I opened in PyCharm.
+
+## UYG332 Image Processing Final Project
+
+### Student Informations
+- **Name**: Gökberk Dökmen
+- **ID**: B2180.060041
+
+### Python Libraries
+- **NumPy (numpy)**  
+- **Matplotlib (matplotlib)**  
+- **OpenCV (cv2)**  
+
+### Informing Section
+While working on this project, I used the PyCharm Community Edition and opened a Terminal to run a Jupyter Notebook. I transferred the provided images from the file I opened within PyCharm.
